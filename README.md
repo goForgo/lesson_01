@@ -1,2 +1,2 @@
 # lesson_01
-This is my first project.
+这是第一个服务仓库lesson_01!
